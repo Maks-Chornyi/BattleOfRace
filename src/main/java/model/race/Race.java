@@ -1,4 +1,5 @@
 package model.race;
 
-public class Race {
+public interface Race {
+    
 }
